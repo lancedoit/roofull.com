@@ -1,4 +1,4 @@
-name="Link - 1.0 Roofull.com KODI 15 Fully Loaded Setup"
+name="Link - 2.0 Roofull.com KODI 15 Fully Loaded Setup"
 url="https://archive.org/download/2.0roofull.com/2.0roofull.com.zip"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
