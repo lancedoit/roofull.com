@@ -1,5 +1,5 @@
-name="This is the ROOFULL niubi Wizard"
+name="ROOFULL Wizard 1.0"
 url="https://archive.org/download/3.0roofull.com/3.0roofull.com.zip"
 img="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull.jpg"
 fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull.jpg"
-description="Roofull first niubi wizard, please try it!"
+description="Roofull first wizard, please try it!"
