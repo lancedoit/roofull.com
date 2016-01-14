@@ -1,5 +1,5 @@
 name="Roofull Kodi Addons Update 20160114 for KODI 16.0 "
-url="https://archive.org/download/roofullkodiaddon/roofullkodiaddon.zip"
+url="https://archive.org/download/roofullkodi/roofullkodi.zip"
 img="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull_wizard_icon.jpg"
 fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull_wizard_icon.jpg"
 description="Roofull KODI 16.0 Fully Loaded Set-up"
