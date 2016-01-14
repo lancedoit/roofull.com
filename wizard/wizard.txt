@@ -1,5 +1,0 @@
-name="ROOFULL Wizard 1.0"
-url="https://archive.org/download/1.0roofull.com_201511/1.0roofull.com.zip"
-img="https://raw.githubusercontent.com/lancedoit/roofull.com/5ddbf784b854c3e97921753ce09bc2374bde8b5e/image/wizardicon.jpg"
-fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/5ddbf784b854c3e97921753ce09bc2374bde8b5e/image/wizardback.jpg"
-description="Roofull first wizard, please try it!"
