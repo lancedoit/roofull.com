@@ -1,5 +1,5 @@
-name="Link - MEDIA QUEST PRO 1.0 Kodi 16.0 Fully Loaded Setup"
-url="https://archive.org/download/alice20160125_20160125/alice20160125.zip"
+name="Addons Data Link - for Kodi 16.0 - 20160220"
+url="https://archive.org/download/MediaQuestPro_201602/MediaQuestPro.zip"
 img="https://raw.githubusercontent.com/lancedoit/roofull.com/05f617e7457e77aa914893a3cbe6034b366f3363/image/MEDIA%20QUEST%20PRO.jpg"
 fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/05f617e7457e77aa914893a3cbe6034b366f3363/image/MEDIA%20QUEST%20PRO.jpg"
-description="MEDIA QUEST PRO KODI 16 Loaded Setup"
+description="Update 20160220 - Addons Data Link for Kodi 16.0 from MEDIA QUEST PRO"
