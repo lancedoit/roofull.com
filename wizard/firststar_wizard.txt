@@ -1,1 +1,5 @@
-
+name="Link - 10th Mar FirstStar.tv KODI Fully Loaded Setup"
+url="https://archive.org/download/chrome_20160309/firststar.zip"
+img="https://archive.org/download/chrome_20160309/SPLASH.PNG"
+fanart="https://archive.org/download/chrome_20160309/SPLASH.PNG"
+description="FirstStar KODI Fully Loaded Set-up"
