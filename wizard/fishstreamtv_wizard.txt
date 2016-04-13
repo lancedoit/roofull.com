@@ -1,5 +1,5 @@
 name="FishstreamTV Kodi Addons Update 20160413 for KODI 16.0 "
-url="https://archive.org/download/Roofulladdonsdata160325/Roofulladdonsdata160325.zip"
+url="https://archive.org/download/FishstreamtvKODI/Fishstreamtv%20KODI.zip"
 img="https://raw.githubusercontent.com/lancedoit/roofull.com/c6c2f78f877df914a956b3d1592a645d397c49a2/image/FishstreamTV.jpg"
 fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/c6c2f78f877df914a956b3d1592a645d397c49a2/image/FishstreamTV.jpg"
 description="FishstreamTV KODI 16.0 Fully Loaded Set-up"
