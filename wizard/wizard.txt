@@ -1,4 +1,4 @@
-name="old - Kodi 16.0 link -  Kodi Addons Update 20160517 "
+name="Kodi 16.0 link -  Kodi Addons Update 20160517 "
 url="https://archive.org/download/ROOFULLWIZARD160518/ROOFULLWIZARD160518.zip"
 img="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull_wizard_icon.jpg"
 fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull_wizard_icon.jpg"
