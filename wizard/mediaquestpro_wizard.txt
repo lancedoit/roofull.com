@@ -1,5 +1,5 @@
 name="Addons Data Update Link for Kodi 16.0 - 20160630"
-url="https://archive.org/download/MediaQuestPro_20160331/Media%20Quest%20Pro.zip"
+url="https://archive.org/download/MediaQuestPro_201603/Updater.zip"
 img="https://raw.githubusercontent.com/lancedoit/roofull.com/8373630b80f9b63128ecff8be9d50964a5537dce/image/mediaquestpro.png"
 fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/8373630b80f9b63128ecff8be9d50964a5537dce/image/mediaquestpro.png"
 description="Update 20160331 - Addons Data Link for Kodi 16.0 from MEDIA QUEST PRO"
