@@ -1,5 +1,5 @@
 name="FishstreamTV Kodi Addons Update 20160718 for KODI 16.0 "
-url="https://archive.org/download/FishstreamtvKODI/FishstreamtvRoger.zip"
+url="https://archive.org/download/RogerKODI/RogerKODI.zip"
 img="https://raw.githubusercontent.com/lancedoit/roofull.com/c6c2f78f877df914a956b3d1592a645d397c49a2/image/FishstreamTV.jpg"
 fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/c6c2f78f877df914a956b3d1592a645d397c49a2/image/FishstreamTV.jpg"
 description="FishstreamTV KODI 16.0 Fully Loaded Set-up"
