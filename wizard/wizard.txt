@@ -5,7 +5,7 @@ fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roo
 description="Roofull KODI 16.0 Fully Loaded Set-up"
 
 name="Kodi 16.1 link -Kodi Addons Update 20160709 "
-url="https://archive.org/download/Roofullwizard160709/Roofullwizard160709.zip"
+url="https://archive.org/download/roofullkodi16.1-160908/roofullkodi16.1-160908.zip"
 img="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull_wizard_icon.jpg"
 fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull_wizard_icon.jpg"
 description="Roofull KODI 16.1 Fully Loaded Set-up"
