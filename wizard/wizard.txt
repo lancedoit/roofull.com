@@ -1,3 +1,9 @@
+name="Kodi 17.1 link - Kodi Addons Update 20170313 "
+url="https://archive.org/download/roofullkodi17addons170313/roofullkodi17addons170313.zip"
+img="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull_wizard_icon.jpg"
+fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull_wizard_icon.jpg"
+description="Roofull KODI 17.1 Fully Loaded Set-up"
+
 name="Kodi 16.1 link -Kodi Addons Update 20161214 "
 url="https://archive.org/download/roofullwizard161214/roofullwizard161214.zip"
 img="https://raw.githubusercontent.com/lancedoit/roofull.com/master/image/roofull_wizard_icon.jpg"
