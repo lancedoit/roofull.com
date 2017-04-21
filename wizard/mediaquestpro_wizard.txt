@@ -1,5 +1,5 @@
-name="Addons Data Update Link for Kodi 16.0 - 20160630"
-url="https://archive.org/download/MediaQuestProKodi20170214/MediaQuestPro-kodi-201702-14.zip"
+name="Addons Data Update Link for Kodi 16.1 - 20170420"
+url="https://archive.org/download/SherylKODI20170420/SherylKODI20170420.zip"
 img="https://raw.githubusercontent.com/lancedoit/roofull.com/8373630b80f9b63128ecff8be9d50964a5537dce/image/mediaquestpro.png"
 fanart="https://raw.githubusercontent.com/lancedoit/roofull.com/8373630b80f9b63128ecff8be9d50964a5537dce/image/mediaquestpro.png"
-description="Update 20160331 - Addons Data Link for Kodi 16.0"
+description="Update 20170420 - Addons Data Link for Kodi 16.1"
